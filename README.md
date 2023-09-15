@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-#### 안녕하세요, 🐥장연주🐥 깃허브입니다
+# 안녕하세요, 🐥연주🐥 깃허브입니다
 <br/>
 <br/>
 
@@ -25,6 +25,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+
+
 
 
 
